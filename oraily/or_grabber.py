@@ -1,15 +1,8 @@
 import json
 import requests
 
-ENDPOINT = "http://catchvideo.net/getvideo".
+ENDPOINT = "http://catchvideo.net/getvideo"
 HEADERS = {'X-Requested-With': 'XMLHttpRequest'}
-
-# https://www.safaribooksonline.com/learning-paths/learning-path-decision-making/9781491995457/
-# https://www.safaribooksonline.com/learning-paths/learning-path-team/9781491994399/
-# https://www.safaribooksonline.com/learning-paths/learning-path-meeting/9781491994450/
-# https://www.safaribooksonline.com/learning-paths/learning-path-leadership/9781491994412/
-# https://www.safaribooksonline.com/learning-paths/learning-path-refactoring/9781491995495/
-# https://www.safaribooksonline.com/learning-paths/learning-path-cloud/9781491984475/
 
 links = [
     # ("url", "filename.mp4"),
