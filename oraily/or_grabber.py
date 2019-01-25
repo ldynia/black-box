@@ -24,26 +24,7 @@ session.mount('https://', adapter)
 
 links = [
     # ("url", "filename.mp4"),
-    ("https://learning.oreilly.com/videos/python-digital-forensics/9781787126664/9781787126664-video1_3", "video1_3.mp4"),
-    ("https://learning.oreilly.com/videos/python-digital-forensics/9781787126664/9781787126664-video1_4", "video1_4.mp4"),
-    # ("https://learning.oreilly.com/videos/python-digital-forensics/9781787126664/9781787126664-video1_5", "video1_5.mp4"),
-    # ("https://learning.oreilly.com/videos/python-digital-forensics/9781787126664/9781787126664-video2_1", "video2_1.mp4"),
-    # ("https://learning.oreilly.com/videos/python-digital-forensics/9781787126664/9781787126664-video2_2", "video2_2.mp4"),
-    # ("https://learning.oreilly.com/videos/python-digital-forensics/9781787126664/9781787126664-video2_3", "video2_3.mp4"),
-    # ("https://learning.oreilly.com/videos/python-digital-forensics/9781787126664/9781787126664-video2_4", "video2_4.mp4"),
-    # ("https://learning.oreilly.com/videos/python-digital-forensics/9781787126664/9781787126664-video3_1", "video3_1.mp4"),
-    # ("https://learning.oreilly.com/videos/python-digital-forensics/9781787126664/9781787126664-video3_2", "video3_2.mp4"),
-    # ("https://learning.oreilly.com/videos/python-digital-forensics/9781787126664/9781787126664-video3_3", "video3_3.mp4"),
-    # ("https://learning.oreilly.com/videos/python-digital-forensics/9781787126664/9781787126664-video3_4", "video3_4.mp4"),
-    # ("https://learning.oreilly.com/videos/python-digital-forensics/9781787126664/9781787126664-video3_5", "video3_5.mp4"),
-    # ("https://learning.oreilly.com/videos/python-digital-forensics/9781787126664/9781787126664-video4_1", "video4_1.mp4"),
-    # ("https://learning.oreilly.com/videos/python-digital-forensics/9781787126664/9781787126664-video4_2", "video4_2.mp4"),
-    # ("https://learning.oreilly.com/videos/python-digital-forensics/9781787126664/9781787126664-video4_3", "video4_3.mp4"),
-    # ("https://learning.oreilly.com/videos/python-digital-forensics/9781787126664/9781787126664-video5_1", "video5_1.mp4"),
-    # ("https://learning.oreilly.com/videos/python-digital-forensics/9781787126664/9781787126664-video5_2", "video5_2.mp4"),
-    # ("https://learning.oreilly.com/videos/python-digital-forensics/9781787126664/9781787126664-video5_3", "video5_3.mp4"),
-    # ("https://learning.oreilly.com/videos/python-digital-forensics/9781787126664/9781787126664-video5_4", "video5_4.mp4"),
-    # ("https://learning.oreilly.com/videos/python-digital-forensics/9781787126664/9781787126664-video5_5", "video5_5.mp4"),
+    # ("https://learning.oreilly.com/videos/python-digital-forensics/9781787126664/9781787126664-video1_3", "video1_3.mp4"),
 ]
 
 with open('links.txt', 'w') as output_file:
